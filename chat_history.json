@@ -1,0 +1,394 @@
+[
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today? 😊"
+    },
+    {
+        "role": "user",
+        "content": "what is your name"
+    },
+    {
+        "role": "assistant",
+        "content": "I do not have a name. I am a large language model, trained by Google."
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha, you call me Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! It's nice to meet you. I will call you Narasimha."
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to your personal information, so I don't know your name.\n\nYou'll have to tell me! What would you like me to call you?"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "who is the prime minister"
+    },
+    {
+        "role": "assistant",
+        "content": "That depends on which country you're referring to!\n\nPrime Ministers are the head of government in many countries, and each country has its own.\n\nFor example:\n*   The Prime Minister of the **United Kingdom** is **Rishi Sunak**.\n*   The Prime Minister of **Canada** is **Justin Trudeau**.\n*   The Prime Minister of **India** is **Narendra Modi**.\n*   The Prime Minister of **Australia** is **Anthony Albanese**.\n*   The Prime Minister of **Japan** is **Fumio Kishida**.\n\nIf you tell me which country you're interested in, I can give you the specific answer!"
+    },
+    {
+        "role": "user",
+        "content": "i want in 2026 list"
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, here's a list of notable events, predictions, and general information for the year 2026. Please remember that dates for future events, especially in science, culture, and politics, can be subject to change.\n\n---\n\n**2026: A Look Ahead**\n\n**I. Major Sporting Events:**\n\n*   **FIFA World Cup:** This is the big one! Co-hosted by the **United States, Canada, and Mexico**. It will be the first 48-team World Cup. (June/July 2026)\n*   **XXV Winter Olympics:** Scheduled to be held in **Milan and Cortina d'Ampezzo, Italy**. (February 6–22, 2026)\n*   **Commonwealth Games:** The host city for the 2026 Commonwealth Games is currently uncertain. Victoria, Australia, withdrew its bid, and a new host is being sought.\n*   **Annual Sporting Events:** Super Bowl LXI, UEFA Champions League Final, NBA Finals, Stanley Cup Finals, major golf tournaments (Masters, Open Championship, etc.), tennis Grand Slams (Australian Open, French Open, Wimbledon, US Open), etc., will all take place as usual.\n\n**II. Political and Historical Anniversaries:**\n\n*   **United States Semiquincentennial:** The USA will celebrate its **250th anniversary** of the signing of the Declaration of Independence. Expect significant national celebrations and events. (July 4, 2026)\n*   **US Midterm Elections:** As is customary, the United States will hold midterm elections for Congress and various state and local offices. (November 2026)\n*   Various other national and international elections will occur globally.\n\n**III. Science and Space:**\n\n*   **Artemis III (NASA):** This mission is currently targeted for a lunar landing attempt in 2026, aiming to return humans to the Moon, including the first woman and person of color. *This date is highly provisional and subject to change.*\n*   **Total Solar Eclipse:** A total solar eclipse will be visible from Greenland, Iceland, Spain, and parts of Portugal. (August 12, 2026)\n*   **Ongoing Missions:** The James Webb Space Telescope, Europa Clipper (launched in 2024, en route to Jupiter's moon Europa), and various Mars missions will continue their scientific observations.\n*   **Space Station Activities:** The International Space Station (ISS) will continue operations. Development of commercial space stations is likely to be progressing.\n\n**IV. Culture and Entertainment (More Speculative):**\n\n*   **Major Film Releases:**\n    *   **Avatar 4** is currently slated for release in December 2026 (this is highly tentative and subject to change).\n    *   Other major franchise films from Marvel, Star Wars, DC, and other studios will likely have release slots.\n*   **Music:** New albums from major artists, world tours, and music festivals will continue.\n*   **Video Games:** Expect new console generations to be well-established, with a strong lineup of new game releases.\n*   **Award Seasons:** The Academy Awards, Grammy Awards, Emmy Awards, Golden Globes, etc., will all celebrate the best of film, music, and television from the preceding year.\n\n**V. Technology and Trends:**\n\n*   **Artificial Intelligence (AI):** Continued rapid advancements in AI, with more widespread integration into daily life, work, and creative fields. Focus on ethical AI development will grow.\n*   **Electric Vehicles (EVs):** Further market penetration and infrastructure development for EVs.\n*   **Augmented Reality (AR) / Virtual Reality (VR):** Continued maturation of AR/VR technologies, with potential for more mainstream adoption, especially in gaming, education, and professional applications.\n*   **Sustainable Technologies:** Increased focus and investment in renewable energy, sustainable manufacturing, and circular economy initiatives.\n*   **Biotechnology and Healthcare:** Advances in personalized medicine, gene editing, and new therapeutic treatments.\n\n**VI. Calendar Highlights (Gregorian Calendar):**\n\n*   **New Year's Day:** Thursday, January 1\n*   **Easter Sunday:** Sunday, April 5\n*   **Independence Day (US):** Saturday, July 4\n*   **Thanksgiving (US):** Thursday, November 26\n*   **Christmas Day:** Friday, December 25\n\n---\n\n**Please note:** This list is based on current information and projections. As 2026 approaches, more specific details, events, and changes will undoubtedly emerge. If you have a specific area of interest (e.g., more detailed tech predictions, specific cultural events), feel free to ask for more!"
+    },
+    {
+        "role": "user",
+        "content": "who is the president of america in 2026"
+    },
+    {
+        "role": "assistant",
+        "content": "The president of the United States in 2026 will be the winner of the **2024 presidential election**.\n\nThat election will take place in November 2024, and the winner will be inaugurated in January 2025, serving a term that would include all of 2026.\n\nAs of right now (late 2023 / early 2024), Joe Biden is the current president, and his term ends in January 2025. He has indicated he plans to run for re-election in 2024. However, the outcome of that election is still unknown."
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to personal information about you, including your name, unless you've told it to me in this conversation.\n\nIf you'd like me to refer to you by a specific name, just let me know!"
+    },
+    {
+        "role": "user",
+        "content": "my name is  Narasimha, you call me Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Got it, Narasimha! I'll be sure to call you by that name.\n\nIt's nice to meet you, Narasimha! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to personal information about you, including your name. I don't store or remember details about who you are across conversations.\n\nYou haven't told me your name during this interaction. If you'd like to share it, I'm happy to know it, but it's completely up to you!"
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Narasimha! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't know your name. I don't have access to personal information about you unless you choose to tell me!"
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! It's nice to meet you. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "user",
+        "content": "my company name  is robo"
+    },
+    {
+        "role": "user",
+        "content": "my company name  is robo"
+    },
+    {
+        "role": "user",
+        "content": "what is my name?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "user",
+        "content": "what is my name?"
+    },
+    {
+        "role": "user",
+        "content": "what is my company ?"
+    },
+    {
+        "role": "user",
+        "content": "my company name  is robo"
+    },
+    {
+        "role": "user",
+        "content": "my company   is robo"
+    },
+    {
+        "role": "user",
+        "content": "my company   is robo"
+    },
+    {
+        "role": "user",
+        "content": "i live in india"
+    },
+    {
+        "role": "assistant",
+        "content": "Understood! How can I help you today, or what would you like to discuss?"
+    },
+    {
+        "role": "user",
+        "content": "where do i live?"
+    },
+    {
+        "role": "user",
+        "content": "what is my company?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but I don't know what your company is. As an AI, I don't have access to personal information about you or your real-world identity unless you tell me directly.\n\nIf you'd like to tell me, I'd be happy to discuss it, answer questions about it, or help you with anything related to your work!"
+    },
+    {
+        "role": "user",
+        "content": "my company is robo"
+    },
+    {
+        "role": "assistant",
+        "content": "Okay, Robo! That's a strong name, immediately suggesting robotics, automation, or AI.\n\nWhat kind of products or services does Robo offer? And what brings you here/how can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! It's nice to meet you. How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to personal information like your name. I don't store or remember details about who you are.\n\nYou would need to tell me your name if you'd like me to know it!"
+    },
+    {
+        "role": "user",
+        "content": "my name is swamy"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Swamy!"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "my name  is narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! It's nice to meet you.\n\nHow can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to personal information about you, so I don't know your name.\n\nIf you'd like to tell me your name for our conversation, feel free to do so!"
+    },
+    {
+        "role": "user",
+        "content": "what is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I don't know your name. As an AI, I don't have access to personal information about you or remember past interactions. You haven't told me!"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! Nice to meet you.\n\nThat's a powerful name, often associated with the man-lion avatar of Vishnu in Hindu mythology.\n\nHow can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hii! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name?"
+    },
+    {
+        "role": "user",
+        "content": "what is my father name?"
+    },
+    {
+        "role": "assistant",
+        "content": "I'm sorry, but as an AI, I don't have access to personal information about you, including your father's name. I don't know who you are or details about your family.\n\nYou would know that best!"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "As an AI, I don't have access to personal information about you, including your name. I don't know who you are.\n\nYou'll have to tell me! 😊"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 20, model: gemini-2.5-flash\\nPlease retry in 13.490677094s.', 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-flash'}, 'quotaValue': '20'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '13s'}]}}"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Error: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'This model models/gemini-2.5-flash-lite is no longer available to new users. Please update your code to use a newer model for the latest features and improvements.', 'status': 'NOT_FOUND'}}"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "my name is narasimha"
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, narasimha! I'll remember your name."
+    },
+    {
+        "role": "user",
+        "content": "what is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is narasimha."
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Narasimha."
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "hii"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi there! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "my name is Narasimha "
+    },
+    {
+        "role": "assistant",
+        "content": "Hello again, Narasimha! It's good to connect with you. How can I assist you today?"
+    },
+    {
+        "role": "user",
+        "content": "what is my name"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is Narasimha."
+    },
+    {
+        "role": "user",
+        "content": "explain AI basics"
+    },
+    {
+        "role": "assistant",
+        "content": "Hello Narasimha! I'd be happy to explain the basics of Artificial Intelligence (AI) for you.\n\nAt its core, **Artificial Intelligence (AI)** refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. It's about creating systems that can perform tasks that typically require human intelligence, such as learning, problem-solving, understanding language, recognizing patterns, and making decisions.\n\nHere are some key concepts and areas within AI:\n\n1.  **Machine Learning (ML):** This is a subset of AI that focuses on enabling systems to learn from data without being explicitly programmed. Instead of writing specific rules, you feed the machine a lot of data, and it learns to identify patterns, make predictions, or take actions based on that data.\n    *   **Supervised Learning:** The model learns from labeled data (e.g., images labeled \"cat\" or \"dog\").\n    *   **Unsupervised Learning:** The model finds patterns in unlabeled data (e.g., grouping customers by purchasing habits).\n    *   **Reinforcement Learning:** The model learns by trial and error, receiving rewards for desired behaviors and penalties for undesired ones (e.g., teaching an AI to play a game).\n\n2.  **Deep Learning (DL):** A specialized branch of Machine Learning that uses neural networks with many layers (hence \"deep\") to learn complex patterns from large amounts of data. It's particularly effective for tasks like image recognition, speech recognition, and natural language processing. Think of it as a more advanced form of pattern recognition.\n\n3.  **Natural Language Processing (NLP):** This area of AI deals with the interaction between computers and human language. It allows computers to understand, interpret, and generate human language. Examples include translation services, spam filters, sentiment analysis, and chatbots (like me!).\n\n4.  **Computer Vision:** This field enables computers to \"see\" and interpret visual information from the real world, much like humans do. It involves tasks like object recognition, facial recognition, image classification, and autonomous driving.\n\n5.  **Robotics:** While not strictly AI itself, AI is crucial for making robots intelligent. AI algorithms allow robots to perceive their environment, navigate, make decisions, and interact with the world effectively.\n\n**Why is AI important?**\nAI is driving innovation across almost every industry, from healthcare and finance to education and entertainment. It helps automate repetitive tasks, analyze vast amounts of data more efficiently than humans, personalize experiences, and solve complex problems in ways that were previously impossible.\n\nIn simple terms, AI is about giving machines the ability to think and learn, making them more capable and helpful tools for humanity."
+    },
+    {
+        "role": "user",
+        "content": "write a basic python atm code"
+    },
+    {
+        "role": "assistant",
+        "content": "Certainly, Narasimha! I can help you with a basic Python ATM code. This code will simulate a very simple ATM where a user can check their balance, deposit money, and withdraw money. It will use a simple `while` loop for the menu and conditional statements for the operations.\n\nHere's a basic example:\n\n```python\ndef atm_program():\n    balance = 1000  # Initial balance for the user\n    pin = \"1234\"    # A simple hardcoded PIN for demonstration\n\n    print(\"Welcome to the Simple Python ATM!\")\n\n    # PIN verification (basic for demonstration)\n    entered_pin = input(\"Please enter your 4-digit PIN: \")\n    if entered_pin != pin:\n        print(\"Incorrect PIN. Exiting.\")\n        return # Exit the function if PIN is wrong\n\n    while True:\n        print(\"\\n--- ATM Menu ---\")\n        print(\"1. Check Balance\")\n        print(\"2. Deposit Money\")\n        print(\"3. Withdraw Money\")\n        print(\"4. Exit\")\n        print(\"----------------\")\n\n        choice = input(\"Enter your choice (1-4): \")\n\n        if choice == '1':\n            print(f\"Your current balance is: ${balance:.2f}\")\n        elif choice == '2':\n            try:\n                deposit_amount = float(input(\"Enter amount to deposit: $\"))\n                if deposit_amount > 0:\n                    balance += deposit_amount\n                    print(f\"${deposit_amount:.2f} deposited successfully.\")\n                    print(f\"Your new balance is: ${balance:.2f}\")\n                else:\n                    print(\"Deposit amount must be positive.\")\n            except ValueError:\n                print(\"Invalid amount. Please enter a number.\")\n        elif choice == '3':\n            try:\n                withdraw_amount = float(input(\"Enter amount to withdraw: $\"))\n                if withdraw_amount > 0:\n                    if withdraw_amount <= balance:\n                        balance -= withdraw_amount\n                        print(f\"${withdraw_amount:.2f} withdrawn successfully.\")\n                        print(f\"Your new balance is: ${balance:.2f}\")\n                    else:\n                        print(\"Insufficient balance.\")\n                else:\n                    print(\"Withdrawal amount must be positive.\")\n            except ValueError:\n                print(\"Invalid amount. Please enter a number.\")\n        elif choice == '4':\n            print(\"Thank you for using the ATM. Goodbye!\")\n            break # Exit the loop and end the program\n        else:\n            print(\"Invalid choice. Please select a number between 1 and 4.\")\n\n# Run the ATM program\nif __name__ == \"__main__\":\n    atm_program()\n```\n\n### How to run this code:\n\n1.  Save the code in a file named `atm.py` (or any other `.py` file name).\n2.  Open a terminal or command prompt.\n3.  Navigate to the directory where you saved the file.\n4.  Run the code using `python atm.py`.\n\n### Explanation of the code:\n\n*   **`atm_program()` function:** Encapsulates all the ATM logic.\n*   **`balance = 1000`:** Initializes the user's account balance.\n*   **`pin = \"1234\"`:** A very basic hardcoded PIN for demonstration purposes. In a real application, this would be securely stored and checked against a database.\n*   **PIN Verification:** A simple check for the `entered_pin`. If it doesn't match, the program exits.\n*   **`while True:` loop:** This creates the main menu, which will keep running until the user chooses to exit.\n*   **Menu Options:** Prints the available actions (Check Balance, Deposit, Withdraw, Exit).\n*   **`input()`:** Takes the user's choice.\n*   **`if/elif/else` statements:**\n    *   **Choice 1 (Check Balance):** Simply prints the current `balance`.\n    *   **Choice 2 (Deposit Money):**\n        *   Prompts for the deposit amount.\n        *   Uses `float()` to convert the input to a decimal number.\n        *   Includes a `try-except` block to handle `ValueError` if the user enters non-numeric input.\n        *   Checks if the deposit amount is positive before adding it to the `balance`.\n    *   **Choice 3 (Withdraw Money):**\n        *   Prompts for the withdrawal amount.\n        *   Similar `try-except` for error handling.\n        *   Checks if the amount is positive.\n        *   Crucially, it checks if `withdraw_amount` is less than or equal to `balance` to prevent overdrafts.\n    *   **Choice 4 (Exit):** Prints a goodbye message and uses `break` to exit the `while` loop, ending the program.\n    *   **Invalid Choice:** Handles any input that isn't 1, 2, 3, or 4.\n*   **`if __name__ == \"__main__\":`:** This standard Python construct ensures that `atm_program()` is called only when the script is executed directly (not when imported as a module).\n\nThis is a very basic foundation. A real ATM would involve database integration, more robust security (hashed PINs, session management), transaction logging, error handling for various edge cases, and a more sophisticated user interface.\n\nLet me know if you'd like to explore any part of it further or add more features!"
+    }
+]
